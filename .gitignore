@@ -137,3 +137,6 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# The following entries were likely added by mistake by a file watcher.
+# It is not recommended to ignore these files.
